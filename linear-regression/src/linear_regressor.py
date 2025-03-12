@@ -4,7 +4,7 @@ class LinearRegressor:
     """
     Linear regressor
     """
-    def __init__(norm=2):
+    def __init__():
         """
         """
         pass
