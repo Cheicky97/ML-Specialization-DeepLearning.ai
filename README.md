@@ -6,7 +6,7 @@ In the scope of this project, I undertake the passionate task to implement some 
 ## :books: Table of Contents
 <!-- Markdown TOC -->
 
-- [:open_file_folder: Linear Regression](/ML-Specialization-DeepLearning.ai/linear-regression/)
+- [:open_file_folder: Linear Regression](linear-regression/)
 - [:open_file_folder: Logistic Regression](/ML-Specialization-DeepLearning.ai/logistic-regression/)
 - [:open_file_folder: Tree models](/ML-Specialization-DeepLearning.ai/tree-models/)
 - [Neural-Network](/ML-Specialization-DeepLearning.ai/neural-network/)
