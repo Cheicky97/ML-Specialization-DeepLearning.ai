@@ -1,8 +1,8 @@
 # :rocket: ML-Specialization-DeepLeaning.ai
-Machine learning algorithms are widely implemented in python,
-and can be directly used within data science project. However, it is important for any serious data scientist to get a good comprehension on the behind of these python black-box.
+Machine learning (ML) algorithms are widely implemented in python,
+and can be directly used within data science project. However, it is important for any serious data scientist to get a good comprehension of concepts underlying python black-boxes.
 
-In the scope of this project, I undertake the passionate task to implement some of the most common ML algorithms from scracth.
+In the scope of this project, I undertake the passionate task to implement some of the most common ML algorithms from scratch.
 ## :books: Table of Contents
 <!-- Markdown TOC -->
 
