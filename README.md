@@ -4,15 +4,17 @@ and can be directly used within data science project. However, it is important f
 
 In the scope of this project, I undertake the passionate task to implement some of the most common ML algorithms from scracth.
 ## :books: Table of Contents
-- [Linear Regression](#-Linear Regression)
-## Linear Regression
+<!-- Markdown TOC -->
 
-## Logistic Regression
+- [:open_file_folder: Linear Regression](/ML-Specialization-DeepLearning.ai/linear-regression/)
+- [:open_file_folder: Logistic Regression](/ML-Specialization-DeepLearning.ai/logistic-regression/)
+- [:open_file_folder: Tree models](/ML-Specialization-DeepLearning.ai/tree-models/)
+- [Neural-Network](/ML-Specialization-DeepLearning.ai/neural-network/)
+- [Installation](#installation)
+- [Usage](#Usage)
+- [Features](#features)
 
-## Tree models
-### Decision Tree
-### Bagging Tree
-### Random Forest
-### Extra Random Tree
-
-## Neural Network
+<!-- /Markdown TOC -->
+## Installation
+## Usage
+## Features
