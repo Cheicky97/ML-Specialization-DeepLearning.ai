@@ -9,7 +9,7 @@ In the scope of this project, I undertake the passionate task to implement some 
 - [:open_file_folder: Linear Regression](linear-regression/)
 - [:open_file_folder: Logistic Regression](logistic-regression/)
 - [:open_file_folder: Tree models](tree-models/)
-- [Neural-Network](neural-network/)
+- [:open_file_folder: Neural Network](neural-network/)
 - [Installation](#installation)
 - [Usage](#Usage)
 - [Features](#features)
