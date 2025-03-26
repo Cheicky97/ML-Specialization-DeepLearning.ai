@@ -4,6 +4,7 @@ and can be directly used within data science project. However, it is important f
 
 In the scope of this project, I undertake the passionate task to implement some of the most common ML algorithms from scracth.
 ## :books: Table of Contents
+- [Linear Regression](#-Linear Regression)
 ## Linear Regression
 
 ## Logistic Regression
