@@ -15,6 +15,6 @@ In the scope of this project, I undertake the passionate task to implement some 
 - [Features](#features)
 
 <!-- /Markdown TOC -->
-## Installation
-## Usage
-## Features
+## 📌 Installation
+## 🧰 Usage
+## 📌 Features
