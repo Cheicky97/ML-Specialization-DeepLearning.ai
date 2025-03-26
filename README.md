@@ -7,9 +7,9 @@ In the scope of this project, I undertake the passionate task to implement some 
 <!-- Markdown TOC -->
 
 - [:open_file_folder: Linear Regression](linear-regression/)
-- [:open_file_folder: Logistic Regression](/ML-Specialization-DeepLearning.ai/logistic-regression/)
-- [:open_file_folder: Tree models](/ML-Specialization-DeepLearning.ai/tree-models/)
-- [Neural-Network](/ML-Specialization-DeepLearning.ai/neural-network/)
+- [:open_file_folder: Logistic Regression](logistic-regression/)
+- [:open_file_folder: Tree models](tree-models/)
+- [Neural-Network](neural-network/)
 - [Installation](#installation)
 - [Usage](#Usage)
 - [Features](#features)
